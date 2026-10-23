@@ -6,9 +6,7 @@
 
 **Langue :** [English](../../README.md) | Français
 
-[Voir l’interface sur le site officiel](https://azerothl.github.io/akasha-os/?lang=fr) · [Télécharger la Preview locale](https://github.com/azerothl/akasha-os/releases)
-
-Le site présente des captures de la Preview. Installe l’application hôte pour utiliser Akasha OS sur ton ordinateur.
+**Site :** [azerothl.github.io/akasha-os](https://azerothl.github.io/akasha-os/?lang=fr)
 
 **Système d'exploitation agent-natif** — capacités, IPC sémantique, GPU
 first-class, offline-first. La Preview tourne sur hôte Windows/Linux
