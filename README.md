@@ -6,7 +6,9 @@
 
 **Language:** English | [Français](docs/fr/README.md)
 
-**Site:** [azerothl.github.io/akasha-os](https://azerothl.github.io/akasha-os/)
+[View the interface on the official site](https://azerothl.github.io/akasha-os/) · [Download the local Preview](https://github.com/azerothl/akasha-os/releases)
+
+The website shows screenshots of the Preview. Install the host app to run Akasha OS on your computer.
 
 **Agent-native operating system** — capability-based security, semantic IPC,
 first-class GPU, offline-first. Preview builds run on Windows/Linux (NVIDIA or
